@@ -12,3 +12,4 @@ personRoute.put('/update/id',update)
 
 personRoute.delete('/remove/:id',remove)
 
+module.exports = personRoute
